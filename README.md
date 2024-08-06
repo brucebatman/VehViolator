@@ -6,4 +6,8 @@ I interpreted the code and got execution of calc.exe, this is straightly PoC.
 
 Use at your own risks.
 
+To compile : 
+```
+cl /EHsc /FeVehViolator.exe VehViolator.c user32.lib ntdll.lib
+```
 
